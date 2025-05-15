@@ -1,0 +1,4 @@
+praat-parselmouth
+webrtcvad
+google-cloud-speech
+soundfile
